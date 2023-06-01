@@ -1,10 +1,11 @@
 import TimeLineForm from "./TimeLineForm";
 import "../Styles/timeLine.css";
+import imgTarjeta from "../img/tarjeta.jpeg"
 
 export default function TimeLine() {
   return (
     <div className="content">
-        <img src="src/img/tarjeta.jpeg" alt="tarjeta" className="card"/>
+        <img src={imgTarjeta} alt="card" className="card"/>
       <b className="messageCard">
         ¡KEVIN Estas cerca de conseguir tu Tarjeta Visa Clásica!
       </b>
