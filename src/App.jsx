@@ -7,6 +7,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import { BsChevronLeft } from "react-icons/bs";
+import logo from "../src/img/tarjeta.jpeg"
 
 function App() {
   return (
@@ -14,7 +15,7 @@ function App() {
       <Container>
         <Row>
           <Col sm={4}>
-            <img className= "brand" src="src/img/logoBanbif.jpeg" alt="Banbif logo" />
+            <img className= "brand" src={logo} alt="Banbif logo" />
             <div className="contentBack">
               <BsChevronLeft className="iconBack"/> <p className="nameBack"> Volver</p>
             </div>
