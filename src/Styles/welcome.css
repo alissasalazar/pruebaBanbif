@@ -1,0 +1,22 @@
+.hi{
+    padding-top: 40px;
+    color: #20A6FF;
+    font-family: 'Roboto Slab', serif;
+    font-size: 56px;
+    
+}
+.name{
+color: #20A6FF;
+font-family: 'Roboto Slab', serif;
+font-size: 32px;
+margin:0;
+padding-top: 58px;
+margin-left: 15px;
+
+}
+.message{
+    text-align: center;
+}
+.Greeting{
+    display: flex !important;
+}

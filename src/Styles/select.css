@@ -1,0 +1,9 @@
+.select{
+    color: #20A6FF;
+    align-items: center;
+    border: 2px solid #20A6FF !important;
+    background-color:#f6fafe !important ;
+    border-radius: 15px;
+    width: 75%;
+    height: 35px;
+}

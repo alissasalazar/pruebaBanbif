@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+.welcome {
+  background-color: aqua;
+}
+.contentButton{
+  display: flex;
+  justify-content: right;
+}
+.button {
+  text-align: center;
+  background: linear-gradient(90deg, #ad96dc 2.83%, #20a6ff 100%);
+  border-radius: 50px;
+  color: #ffffff;
+  width: 280px;
+  font-family: "Roboto Slab";
+  height: 40px;
+  font-size: 10px;
+  margin-left: 30%;
+  border: 1px solid transparent;
+}
+
+.contentBack{
+  display: flex;
+  align-items: center;
+  color: #20a6ff;
+}
+.brand{
+  margin-top: 20px;
+  margin-bottom: 15px;
+  height: 50px;
+  width: 200px;
+}

@@ -1,0 +1,43 @@
+.content {
+  background-color: #f8f8f8;
+  border-radius: 16px;
+  margin-top: 70%;
+  text-align: center;
+  padding: 15%;
+}
+.timeLines {
+  display: flex;
+  text-align: left;
+}
+.object {
+  background-color: #20a6ff;
+}
+.messageCard {
+  color: #20a6ff;
+  font-size: 20px;
+}
+
+.card {
+  height: 245px;
+  width: 178px;
+  position: absolute;
+  top: 25%;
+  left: 15%;
+}
+.numero {
+  color: #20a6ff;
+}
+.iconBack {
+  height: 35%;
+  width: 10%;
+}
+.nameBack {
+margin:0;
+font-size: 30px;
+}
+.titleInf{
+    font-size: 20px;
+}
+.fraseInf{
+    font-size: 15px;
+}
