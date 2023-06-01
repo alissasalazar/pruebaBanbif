@@ -7,7 +7,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import { BsChevronLeft } from "react-icons/bs";
-import logo from "../src/img/tarjeta.jpeg"
+import logo from "../src/img/logoBanbif.jpeg"
 
 function App() {
   return (
