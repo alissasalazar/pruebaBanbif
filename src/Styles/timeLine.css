@@ -20,9 +20,10 @@
 .card {
   height: 245px;
   width: 178px;
-  position: absolute;
+  position:relative;
   top: 25%;
   left: 15%;
+ margin-top:-80%;
 }
 .numero {
   color: #20a6ff;
